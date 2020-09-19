@@ -3,5 +3,5 @@
 /target
 /bin
 /music
-!/music/mp3
-!/music/flac
+!mp3.txt
+!flac.txt
