@@ -2,6 +2,6 @@
 *.log
 /target
 /bin
-/music
-!mp3.txt
-!flac.txt
+/music/*
+!/music/mp3/
+!/music/flac/
